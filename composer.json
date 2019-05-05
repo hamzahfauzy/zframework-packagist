@@ -1,5 +1,5 @@
 {
-    "name": "zframework/zframework",
+    "name": "zframework/zframework-packagist",
     "type": "library",
     "description": "zframework",
     "keywords": ["zframework","mvc autoloader"],
