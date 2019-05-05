@@ -1,5 +1,5 @@
 <?php
-namespace vendor\zframework;
+namespace Zframework;
 
 class Session 
 {

@@ -1,6 +1,6 @@
 <?php
-namespace vendor\zframework;
-use vendor\zframework\util\Assets;
+namespace Zframework;
+use Zframework\util\Assets;
 
 class View
 {

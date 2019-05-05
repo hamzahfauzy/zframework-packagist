@@ -1,8 +1,8 @@
 <?php
-namespace vendor\zframework;
-use vendor\zframework\Route;
-use vendor\zframework\Session;
-use vendor\zframework\util\Request;
+namespace Zframework;
+use Zframework\Route;
+use Zframework\Session;
+use Zframework\util\Request;
 
 class Autoloader
 {

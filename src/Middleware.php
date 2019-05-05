@@ -1,6 +1,6 @@
 <?php
-namespace vendor\zframework;
-use vendor\zframework\Controller;
+namespace Zframework;
+use Zframework\Controller;
 
 class Middleware 
 {

@@ -1,6 +1,6 @@
 <?php
-namespace vendor\zframework;
-use vendor\zframework\util\QueryBuilder;
+namespace Zframework;
+use Zframework\util\QueryBuilder;
 
 class Model 
 {

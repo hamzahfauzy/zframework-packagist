@@ -1,16 +1,18 @@
 {
-    "name": "zframework/zframework-packagist",
+    "name": "hamzahfauzy/zframework",
+    "description": "this is main library for zframework",
     "type": "library",
-    "description": "zframework",
-    "keywords": ["zframework","mvc autoloader"],
-    "homepage": "https://z-techno.com",
     "license": "MIT",
     "authors": [
         {
             "name": "Hamzah Fauzy",
-            "email": "hamzahfauzy97@gmail.com",
-            "homepage": "https://z-techno.com",
-            "role": "Developer"
+            "email": "hamzahfauzy97@gmail.com"
         }
-    ]
+    ],
+    "autoload":{
+        "psr-4":{
+            "Zframework\\":"src/"
+        }
+    },
+    "require": {}
 }

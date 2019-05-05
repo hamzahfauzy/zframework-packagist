@@ -1,5 +1,5 @@
 <?php
-namespace vendor\zframework\util;
+namespace Zframework\util;
 use config\Connection;
 
 class QueryBuilder
